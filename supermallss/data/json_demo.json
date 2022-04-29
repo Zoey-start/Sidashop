@@ -1,0 +1,318 @@
+{
+  "banners": [
+    {
+      "height": "390",
+      "width": "400",
+      "image": "http://localhost:8080/img/banner/banner01.jpg",
+      "link": "https://www.baidu.com/",
+      "title": "双十一天猫节"
+    },
+    { "height":"390",
+      "width": "400",
+      "image": "http://localhost:8080/img/banner/banner02.jpg",
+      "link": "https://www.baidu.com/",
+      "title": "双十一天猫节"
+    },
+    { "height":"390","width": "400",
+      "image": "http://localhost:8080/img/banner/banner03.jpg",
+      "link": "https://www.baidu.com/",
+      "title": "双十一天猫节"
+    },
+    { "height":"390","width": "400",
+      "image": "http://localhost:8080/img/banner/banner04.jpg",
+      "link": "https://www.baidu.com/",
+      "title": "双十一天猫节"
+    }
+  ],
+  "recommends": [
+    {
+      "image": "http://localhost:8080/img/recommend/recommend01.jpg",
+      "link": "https://www.baidu.com/",
+      "title": "十点好物"
+    },
+    {
+      "image": "http://localhost:8080/img/recommend/recommend02.jpg",
+      "link": "https://www.baidu.com/",
+      "title": "好物特卖"
+    },
+    {
+      "image": "http://localhost:8080/img/recommend/recommend03.jpg",
+      "link": "https://www.baidu.com/",
+      "title": "内购福利"
+    },
+    {
+      "image": "http://localhost:8080/img/recommend/recommend04.jpg",
+      "link": "https://www.baidu.com/",
+      "title": "VIP特惠"
+    }
+  ],
+  "feature": [
+    {
+      "image": "http://localhost:8080/img/feature/feature01.jpg",
+      "link": "https://www.baidu.com/",
+      "title": "撩人美裙"
+    },
+    {
+      "image": "http://localhost:8080/img/feature/feature02.jpg",
+      "link": "https://www.baidu.com/",
+      "title": "潮流外套"
+    },
+    {
+      "image": "http://localhost:8080/img/feature/feature03.jpg",
+      "link": "https://www.baidu.com/",
+      "title": "吸睛上衣"
+    },
+    {
+      "image": "http://localhost:8080/img/feature/feature04.jpg",
+      "link": "https://www.baidu.com/",
+      "title": "时髦裤装"
+    },
+    {
+      "image": "http://localhost:8080/img/feature/feature05.jpg",
+      "link": "https://www.baidu.com/",
+      "title": "撩人美裙"
+    },
+    {
+      "image": "http://localhost:8080/img/feature/feature06.jpg",
+      "link": "https://www.baidu.com/",
+      "title": "独具个性"
+    },
+    {
+      "image": "http://localhost:8080/img/feature/feature07.jpg",
+      "link": "https://www.baidu.com/",
+      "title": "保暖上衣"
+    },
+    {
+      "image": "http://localhost:8080/img/feature/feature08.jpg",
+      "link": "https://www.baidu.com/",
+      "title": "爵士外套"
+    }
+  ],
+  "goods": {
+    "news": [
+      {
+        "image": "http://localhost:8080/img/goods/news/news01.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿黑色呢子大衣女中长款2019新款学生小个子冬季流行毛呢外套",
+        "price": "¥ 188.00 ",
+        "like": "❤21"
+      },
+      {
+        "image": "http://localhost:8080/img/goods/news/news02.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿冬季马甲女2019新款宽松外穿秋冬加厚小个子背心棉袄外套潮",
+        "price": "¥ 108.00 ",
+        "like": "❤9"
+      },
+      {
+        "image": "http://localhost:8080/img/goods/news/news03.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿长袖纯色打底衫女2019新款韩版学生秋冬季弹力修身内搭上衣",
+        "price": "¥ 49.00 ",
+        "like": "❤17"
+      },
+      {
+        "image": "http://localhost:8080/img/goods/news/news04.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿黑色牛仔裤女2019秋冬新款九分裤加绒高腰显瘦裤子直筒宽松",
+        "price": "¥ 108.00 ",
+        "like": "❤22"
+      },
+      {
+        "image": "http://localhost:8080/img/goods/news/news05.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "10.28新品 10点开售 连帽毛呢大衣女中长款冬季2019流行呢子外套",
+        "price": "¥ 188.00 ",
+        "like": "❤3"
+      },
+      {
+        "image": "http://localhost:8080/img/goods/news/news06.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿马夹女冬季2019新款宽松背心棉袄短款学生韩版外穿马甲外套",
+        "price": "¥ 118.00 ",
+        "like": "❤20"
+      },
+      {
+        "image": "http://localhost:8080/img/goods/news/news07.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿冬季棉服女短款宽松面包服棉袄2019新款潮冬装韩版学生外套",
+        "price": "¥ 148.00 ",
+        "like": "❤36"
+      },
+      {
+        "image": "http://localhost:8080/img/goods/news/news08.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿秋冬森系毛衣女2019新款学生宽松外穿文艺上衣复古菱形针织",
+        "price": "¥ 118.00 ",
+        "like": "❤9"
+      },
+      {
+        "image": "http://localhost:8080/img/goods/news/news09.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿彩色格子毛衣女2019冬季新款套头宽松外穿慵懒风针织上衣潮",
+        "price": "¥ 118.00 ",
+        "like": "❤3"
+      },
+      {
+        "image": "http://localhost:8080/img/goods/news/news10.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿卫衣2019新款女加厚加绒宽松韩版连帽长袖外套女潮ins秋冬",
+        "price": "¥ 89.00 ",
+        "like": "❤36"
+      }
+    ],
+    "pop": [
+      {
+        "id": "01",
+        "image": "http://localhost:8080/img/goods/pop/pop01.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿毛呢格子裤复古直筒宽松2019秋冬新款学生百搭九分休闲裤女",
+        "price": "¥ 109.00 ",
+        "like": "❤6000+"
+      },
+      {
+        "id": "02",
+        "image": "http://localhost:8080/img/goods/pop/pop02.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿条纹毛衣女宽松外穿长袖韩版秋冬线衣慵懒风彩虹针织衫上衣",
+        "price": "¥ 79.00 ",
+        "like": "❤6000+"
+      },
+      {
+        "id": "03",
+        "image": "http://localhost:8080/img/goods/pop/pop03.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿加厚加绒卫衣女秋冬宽松韩版bf慵懒风学生复古长袖女士上衣",
+        "price": "¥ 89.00 ",
+        "like": "❤1954"
+      },
+      {
+        "id": "05",
+        "image": "http://localhost:8080/img/goods/pop/pop04.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿米白色加绒牛仔裤女秋冬高腰裤子女2019新款宽松阔腿直筒裤",
+        "price": "¥ 79.00 ",
+        "like": "❤1266"
+      },
+      {
+        "id": "06",
+        "image": "http://localhost:8080/img/goods/pop/pop05.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿外套女秋冬韩版宽松学生百搭2019流行新款秋装中长款风衣女",
+        "price": "¥ 129.00 ",
+        "like": "❤1076"
+      },
+      {
+        "id": "07",
+        "image": "http://localhost:8080/img/goods/pop/pop06.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿毛衣女宽松外穿2019新款韩版长袖女上衣秋冬条纹套头针织衫",
+        "price": "¥ 79.00 ",
+        "like": "❤957"
+      },
+      {
+        "id": "08",
+        "image": "http://localhost:8080/img/goods/pop/pop07.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿牛仔裤女2019秋季高腰宽松直筒cec裤子女韩版哈伦老爹裤女",
+        "price": "¥ 79.00 ",
+        "like": "❤671"
+      },
+      {
+        "id": "09",
+        "image": "http://localhost:8080/img/goods/pop/pop08.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿牛仔裤女2019秋季高腰宽松直筒cec裤子女韩版哈伦老爹裤女",
+        "price": "¥ 79.00 ",
+        "like": "❤671"
+      },
+      {
+        "id": "10",
+        "image": "http://localhost:8080/img/goods/pop/pop09.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿米白色牛仔裤女加绒秋冬直筒宽松高腰老爹裤子女百搭阔腿裤",
+        "price": "¥ 89.00 ",
+        "like": "❤503"
+      },
+      {
+        "image": "http://localhost:8080/img/goods/pop/pop10.jpg",
+        "link": "https://www.baidu.com/",
+        "title": "蜜妃儿工装风衣女中长款韩版宽松大衣2019流行新款秋冬小个子外套",
+        "price": "¥ 189.00 ",
+        "like": "❤413"
+      }
+    ],
+    "seleted": [
+        {
+          "image": "http://localhost:8080/img/goods/select/select01.jpg",
+          "link": "https://www.baidu.com/",
+          "title": "蜜妃儿秋冬打底针织衫女长袖2019新款韩版显瘦内搭半高领套头上衣",
+          "price": "¥ 59.00 ",
+          "like": "❤608"
+        },
+        {
+          "image": "http://localhost:8080/img/goods/select/select02.jpg",
+          "link": "https://www.baidu.com/",
+          "title": "蜜妃儿2019新款牛仔裤女宽松学生直筒裤百搭高腰九分哈伦老爹裤子",
+          "price": "¥ 98.00 ",
+          "like": "❤146"
+        },
+        {
+          "image": "http://localhost:8080/img/goods/select/select03.jpg",
+          "link": "https://www.baidu.com/",
+          "title": "蜜妃儿白色卫衣女宽松韩版潮连帽学生上衣2019新款外套女春秋薄款",
+          "price": "¥ 79.00 ",
+          "like": "❤247"
+        },
+        {
+          "image": "http://localhost:8080/img/goods/select/select04.jpg",
+          "link": "https://www.baidu.com/",
+          "title": "蜜妃儿2019新款半身裙女a字裙高腰中长款裙子学生新款时尚网纱裙",
+          "price": "¥ 79.00 ",
+          "like": "❤56"
+        },
+        {
+          "image": "http://localhost:8080/img/goods/select/select05.jpg",
+          "link": "https://www.baidu.com/",
+          "title": "蜜妃儿七色彩虹长袖t恤女2019新款秋季宽松韩版慵懒风打底衫上衣",
+          "price": "¥ 79.00 ",
+          "like": "❤56"
+        },
+        {
+          "image": "http://localhost:8080/img/goods/select/select06.jpg",
+          "link": "https://www.baidu.com/",
+          "title": "蜜妃儿绿色毛衣女早秋宽松慵懒风韩版学生针织衫秋冬长袖打底上衣",
+          "price": "¥ 98.00 ",
+          "like": "❤146"
+        },
+        {
+          "image": "http://localhost:8080/img/goods/select/select07.jpg",
+          "link": "https://www.baidu.com/",
+          "title": "蜜妃儿黑白条纹毛衣女慵懒风长袖2019新款秋冬宽松外穿针织毛线衣\n",
+          "price": "¥ 79.00 ",
+          "like": "❤44"
+        },
+        {
+          "image": "http://localhost:8080/img/goods/select/select08.jpg",
+          "link": "https://www.baidu.com/",
+          "title": "蜜妃儿毛衣女宽松韩版2019新款学生针织衫上衣外套秋冬慵懒风外套",
+          "price": "¥ 89.00 ",
+          "like": "❤47"
+        },
+        {
+          "image": "http://localhost:8080/img/goods/select/select09.jpg",
+          "link": "https://www.baidu.com/",
+          "title": "蜜妃儿假两件卫衣女春秋薄款2019新款宽松bf长袖外套学生连帽上衣",
+          "price": "¥ 89.00 ",
+          "like": "❤60"
+        },
+        {
+          "image": "http://localhost:8080/img/goods/select/select10.jpg",
+          "link": "https://www.baidu.com/",
+          "title": "蜜妃儿2019新款卫衣女春秋薄款学生灰色上衣韩版宽松长袖无帽外套",
+          "price": "¥ 109.00 ",
+          "like": "❤14"
+        }
+      ]
+  }
+}
